@@ -34,7 +34,6 @@ const multiply = (numA, numB) => {
   // Open up the inspector tool in Chrome and select the Console tab to see what this functions is "logging out" to the console.
   const multiply = numA * numB;
   return multiply;
-  // console.log(numA, numB);
 };
 
 // / to get a quotient,
